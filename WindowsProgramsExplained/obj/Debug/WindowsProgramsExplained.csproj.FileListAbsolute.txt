@@ -9,3 +9,14 @@ C:\Users\Kasutaja\Desktop\WindowsProgramsExplained\WindowsProgramsExplained\obj\
 C:\Users\Kasutaja\Desktop\WindowsProgramsExplained\WindowsProgramsExplained\obj\Debug\WindowsProgramsExplained.csproj.GenerateResource.Cache
 C:\Users\Kasutaja\Desktop\WindowsProgramsExplained\WindowsProgramsExplained\obj\Debug\WindowsProgramsExplained.exe
 C:\Users\Kasutaja\Desktop\WindowsProgramsExplained\WindowsProgramsExplained\obj\Debug\WindowsProgramsExplained.pdb
+C:\Dropbox\coding\C#\WindowsProgramsExplained\WindowsProgramsExplained\bin\Debug\WindowsProgramsExplained.exe.config
+C:\Dropbox\coding\C#\WindowsProgramsExplained\WindowsProgramsExplained\obj\Debug\WindowsProgramsExplained.exe
+C:\Dropbox\coding\C#\WindowsProgramsExplained\WindowsProgramsExplained\obj\Debug\WindowsProgramsExplained.pdb
+C:\Dropbox\coding\C#\WindowsProgramsExplained\WindowsProgramsExplained\bin\Debug\WindowsProgramsExplained.exe
+C:\Dropbox\coding\C#\WindowsProgramsExplained\WindowsProgramsExplained\bin\Debug\WindowsProgramsExplained.pdb
+C:\Dropbox\coding\C#\WindowsProgramsExplained\WindowsProgramsExplained\obj\Debug\WindowsProgramsExplained.csprojResolveAssemblyReference.cache
+C:\Dropbox\coding\C#\WindowsProgramsExplained\WindowsProgramsExplained\obj\Debug\WindowsProgramsExplained.ApplicationList.resources
+C:\Dropbox\coding\C#\WindowsProgramsExplained\WindowsProgramsExplained\obj\Debug\WindowsProgramsExplained.ApplicationListItem.resources
+C:\Dropbox\coding\C#\WindowsProgramsExplained\WindowsProgramsExplained\obj\Debug\WindowsProgramsExplained.WindowsProgramsExplainedForm.resources
+C:\Dropbox\coding\C#\WindowsProgramsExplained\WindowsProgramsExplained\obj\Debug\WindowsProgramsExplained.Properties.Resources.resources
+C:\Dropbox\coding\C#\WindowsProgramsExplained\WindowsProgramsExplained\obj\Debug\WindowsProgramsExplained.csproj.GenerateResource.Cache
